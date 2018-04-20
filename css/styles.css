@@ -1,0 +1,28 @@
+.column{
+  float: right;
+  font-family: sans-serif;
+  font-style: italic;
+  font-size: 15px
+}
+.body{
+  background-color: skyblue;
+}
+.text-box{
+  text-shadow: black;
+  text-align: center;
+  background-color: navy;
+  border: 2px solid blue;
+  padding: 6px
+  margin: 20px
+}
+.image{
+  float: left;
+  border-radius: 25%
+}
+#topic{
+  background-position: center;
+  background-color: navy;
+}
+.img{
+  background-image: url(../Anne/Download.jpg);
+}
