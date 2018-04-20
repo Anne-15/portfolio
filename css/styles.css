@@ -17,12 +17,11 @@
 }
 .image{
   float: left;
-  border-radius: 25%
+  border-color: pink;
+  border-width: medium;
+  border-radius: 20%
 }
 #topic{
-  background-position: center;
-  background-color: navy;
-}
-.img{
-  background-image: url(../Anne/Download.jpg);
+  text-indent: inherit;
+  text-align: center;
 }
