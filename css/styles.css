@@ -1,11 +1,12 @@
 .column{
   float: right;
+  width: 30%
   font-family: sans-serif;
   font-style: italic;
-  font-size: 15px
+  font-size: 50px
 }
 .body{
-  background-color: skyblue;
+  background-color: pink;
 }
 .text-box{
   text-shadow: black;
@@ -15,13 +16,13 @@
   padding: 6px
   margin: 20px
 }
-.image{
-  float: left;
-  border-color: pink;
-  border-width: medium;
-  border-radius: 20%
-}
 #topic{
   text-indent: inherit;
   text-align: center;
+}
+body{
+  text-align: center;
+  font-family: sans-serif;
+  font-style: normal;
+  font-size: 12px
 }
