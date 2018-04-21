@@ -33,3 +33,9 @@ h1{
 img.style{
   border-radius: 20%
 }
+#column{
+  color: navy;
+}
+#float{
+  float: right;
+}
