@@ -1,8 +1,15 @@
-body{
-  background-color: purple;
+body {
+  background-color: lightpink;
 }
-img{
+
+img {
   width: 500px;
   height: 500px;
   border-radius: 70%;
+}
+
+h1 {
+  color: hotpink;
+  text-align: center;
+  font-size: 67px;
 }
