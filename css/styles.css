@@ -1,5 +1,5 @@
 body {
-  background-color: maroon;
+  background-color: lightpink;
 }
 
 img {
@@ -9,7 +9,12 @@ img {
 }
 
 h1 {
-  color: hotpink;
+  color: maroon;
   text-align: center;
   font-size: 67px;
+}
+
+#sidebar {
+  background-image: url(images/contact.jpg);
+  float: right;
 }
