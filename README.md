@@ -1,17 +1,19 @@
 # {portfolio}
-#### {This portfolio is about me and }, {Date of current version}
-#### By **{List of contributors}**
+#### {This portfolio is about me and }, {19-04-18}
+#### By **{Moringa school
+  Anne Nduati
+  Friends}**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+{This porfolio is all about me. My background and my level of education. }
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
 * in a simple
 * easy-to-understand
 * format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+{This website is a HTML and CSS structured webpage that can need more languages. The server is supportive and the licensing is approved. Feel free to enjoy the beauty of the website and make any professional changes that please you.}
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+{There are issues with the websites and incase of any more details, contact me through my emails. Always at your service.}
 ## Technologies Used
 {The technologies used are html and css}
 ## Support and contact details
